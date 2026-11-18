@@ -304,17 +304,8 @@ are recorded in results/.
 The test set was not used for training,
 early stopping, or hyperparameter selection.
 
-## 14. Report
 
-The academic PDF report is located at:
-
-report/Homework_2_Image_Classification_Report.pdf
-
-The report describes the methods, results,
-computational trade-offs, classification errors,
-and experimental limitations.
-
-## 15. References
+## 14. References
 
 Parkhi, O. M., Vedaldi, A., Zisserman, A.,
 and Jawahar, C. V. (2012).
