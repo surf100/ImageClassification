@@ -1,0 +1,62 @@
+{
+  "method": "feature_extraction_linear_svm",
+  "backbone": "MobileNetV3-Small",
+  "weights": "IMAGENET1K_V1 (DEFAULT)",
+  "feature_location": "after avgpool, before classifier",
+  "feature_dimension": 576,
+  "neural_network_trainable_parameters": 0,
+  "classifier": "LinearSVC",
+  "scaling": "StandardScaler fitted on train only",
+  "train_augmentation": "none (deterministic features)",
+  "seed": 42,
+  "batch_size": 32,
+  "c_values": [
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "best_C": 0.01,
+  "checkpoint_rule": "highest validation macro F1",
+  "train_accuracy": 0.9989809782608695,
+  "train_macro_f1": 0.9989864600918744,
+  "validation_accuracy": 0.873641304347826,
+  "validation_macro_f1": 0.8725600352880004,
+  "feature_extraction_seconds": 23.410624199997983,
+  "selected_classifier_fit_seconds": 11.0289247000037,
+  "total_selected_pipeline_seconds": 34.43954890000168,
+  "hyperparameter_search_results": [
+    {
+      "C": 0.01,
+      "validation_accuracy": 0.873641304347826,
+      "validation_macro_f1": 0.8725600352880004,
+      "classifier_training_seconds": 11.0289247000037
+    },
+    {
+      "C": 0.1,
+      "validation_accuracy": 0.8274456521739131,
+      "validation_macro_f1": 0.8268515990722445,
+      "classifier_training_seconds": 15.16674719999719
+    },
+    {
+      "C": 1.0,
+      "validation_accuracy": 0.813858695652174,
+      "validation_macro_f1": 0.8116890858943264,
+      "classifier_training_seconds": 203.37800080000306
+    },
+    {
+      "C": 10.0,
+      "validation_accuracy": 0.8125,
+      "validation_macro_f1": 0.8108218160006819,
+      "classifier_training_seconds": 1676.127636300007
+    }
+  ],
+  "torch_version": "2.7.1+cu118",
+  "torchvision_version": "0.22.1+cu118",
+  "sklearn_version": "1.9.1",
+  "cudnn_deterministic": true,
+  "cudnn_benchmark": false,
+  "deterministic_algorithms_enforced": false,
+  "test_set_used": false,
+  "model_path": "C:\\Users\\Lenovo\\Desktop\\computer vision\\HW2\\CV_Assignment_2\\checkpoints\\linear_svm.joblib"
+}

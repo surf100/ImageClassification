@@ -1,0 +1,29 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Original dataset (download separately)
+data/
+
+# Large generated feature arrays
+results/feature_extraction/*.npz
+
+# Temporary files
+*.log
+*.tmp
+
+# Secrets
+.env
+.env.*

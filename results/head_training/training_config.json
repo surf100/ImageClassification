@@ -1,0 +1,33 @@
+{
+  "method": "classifier_head_training",
+  "weights": "IMAGENET1K_V1 (DEFAULT)",
+  "seed": 42,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "max_epochs": 15,
+  "epochs_completed": 13,
+  "patience": 4,
+  "loss_function": "CrossEntropyLoss",
+  "optimizer": "AdamW",
+  "checkpoint_rule": "highest validation macro F1",
+  "best_epoch": 9,
+  "best_val_macro_f1": 0.8843407880395014,
+  "total_parameters": 1555781,
+  "trainable_parameters": 628773,
+  "frozen_layers": "features",
+  "trainable_layers": [
+    "classifier.0",
+    "classifier.3"
+  ],
+  "training_time_seconds": 428.2085278000013,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "torch_version": "2.7.1+cu118",
+  "torchvision_version": "0.22.1+cu118",
+  "sklearn_version": "1.9.1",
+  "cudnn_deterministic": true,
+  "cudnn_benchmark": false,
+  "deterministic_algorithms_enforced": false,
+  "test_set_used": false
+}

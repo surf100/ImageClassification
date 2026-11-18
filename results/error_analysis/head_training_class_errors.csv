@@ -1,0 +1,38 @@
+method,breed,total_images,correct,errors,recall
+head_training,american pit bull terrier,100,24,76,0.24
+head_training,Ragdoll,100,52,48,0.52
+head_training,British Shorthair,100,63,37,0.63
+head_training,miniature pinscher,100,64,36,0.64
+head_training,english cocker spaniel,100,77,23,0.77
+head_training,Maine Coon,100,79,21,0.79
+head_training,Siamese,100,79,21,0.79
+head_training,beagle,100,80,20,0.8
+head_training,Persian,100,82,18,0.82
+head_training,boxer,99,81,18,0.8182
+head_training,staffordshire bull terrier,89,71,18,0.7978
+head_training,Sphynx,100,85,15,0.85
+head_training,Russian Blue,100,86,14,0.86
+head_training,Bombay,88,76,12,0.8636
+head_training,american bulldog,100,88,12,0.88
+head_training,Abyssinian,98,87,11,0.8878
+head_training,Bengal,100,89,11,0.89
+head_training,Egyptian Mau,97,86,11,0.8866
+head_training,chihuahua,100,90,10,0.9
+head_training,wheaten terrier,100,90,10,0.9
+head_training,Birman,100,91,9,0.91
+head_training,basset hound,100,91,9,0.91
+head_training,english setter,100,91,9,0.91
+head_training,saint bernard,100,93,7,0.93
+head_training,japanese chin,100,94,6,0.94
+head_training,keeshond,99,93,6,0.9394
+head_training,pug,100,94,6,0.94
+head_training,great pyrenees,100,95,5,0.95
+head_training,scottish terrier,99,94,5,0.9495
+head_training,shiba inu,100,95,5,0.95
+head_training,havanese,100,96,4,0.96
+head_training,pomeranian,100,97,3,0.97
+head_training,samoyed,100,97,3,0.97
+head_training,yorkshire terrier,100,97,3,0.97
+head_training,german shorthaired,100,98,2,0.98
+head_training,leonberger,100,98,2,0.98
+head_training,newfoundland,100,98,2,0.98

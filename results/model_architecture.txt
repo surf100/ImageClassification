@@ -1,0 +1,14 @@
+MobileNetV3-Small Architecture
+PyTorch: 2.15.0+cpu
+TorchVision: 0.29.2+cpu
+Weights: IMAGENET1K_V1 (DEFAULT)
+Number of classes: 37
+Total parameters: 1555781
+Trainable parameters: 1555781
+Classifier:
+Sequential(
+  (0): Linear(in_features=576, out_features=1024, bias=True)
+  (1): Hardswish()
+  (2): Dropout(p=0.2, inplace=True)
+  (3): Linear(in_features=1024, out_features=37, bias=True)
+)

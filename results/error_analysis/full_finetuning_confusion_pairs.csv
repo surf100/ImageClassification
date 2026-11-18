@@ -1,0 +1,244 @@
+method,true_breed,predicted_breed,count
+full_finetuning,chihuahua,shiba inu,27
+full_finetuning,Birman,Ragdoll,19
+full_finetuning,american pit bull terrier,american bulldog,18
+full_finetuning,american pit bull terrier,german shorthaired,17
+full_finetuning,beagle,basset hound,17
+full_finetuning,havanese,wheaten terrier,17
+full_finetuning,staffordshire bull terrier,american bulldog,15
+full_finetuning,Persian,Maine Coon,14
+full_finetuning,Persian,Ragdoll,14
+full_finetuning,english setter,english cocker spaniel,12
+full_finetuning,staffordshire bull terrier,boxer,12
+full_finetuning,British Shorthair,Russian Blue,10
+full_finetuning,Sphynx,chihuahua,10
+full_finetuning,american pit bull terrier,boxer,9
+full_finetuning,newfoundland,scottish terrier,9
+full_finetuning,Egyptian Mau,Bengal,8
+full_finetuning,Maine Coon,Ragdoll,8
+full_finetuning,pomeranian,samoyed,8
+full_finetuning,Ragdoll,Birman,8
+full_finetuning,american pit bull terrier,staffordshire bull terrier,7
+full_finetuning,Birman,Siamese,7
+full_finetuning,boxer,american bulldog,7
+full_finetuning,Maine Coon,Bengal,7
+full_finetuning,miniature pinscher,chihuahua,7
+full_finetuning,pomeranian,shiba inu,7
+full_finetuning,Siamese,chihuahua,7
+full_finetuning,staffordshire bull terrier,beagle,7
+full_finetuning,basset hound,beagle,6
+full_finetuning,British Shorthair,Abyssinian,6
+full_finetuning,english cocker spaniel,english setter,6
+full_finetuning,havanese,japanese chin,6
+full_finetuning,miniature pinscher,boxer,6
+full_finetuning,Ragdoll,Siamese,6
+full_finetuning,Russian Blue,Abyssinian,6
+full_finetuning,Russian Blue,Bombay,6
+full_finetuning,Russian Blue,British Shorthair,6
+full_finetuning,american pit bull terrier,beagle,5
+full_finetuning,Bengal,Egyptian Mau,5
+full_finetuning,Bombay,Russian Blue,5
+full_finetuning,chihuahua,american bulldog,5
+full_finetuning,scottish terrier,wheaten terrier,5
+full_finetuning,Sphynx,Abyssinian,5
+full_finetuning,staffordshire bull terrier,german shorthaired,5
+full_finetuning,yorkshire terrier,wheaten terrier,5
+full_finetuning,Abyssinian,Bengal,4
+full_finetuning,american bulldog,saint bernard,4
+full_finetuning,basset hound,saint bernard,4
+full_finetuning,Bengal,Maine Coon,4
+full_finetuning,Bombay,scottish terrier,4
+full_finetuning,British Shorthair,Egyptian Mau,4
+full_finetuning,english cocker spaniel,havanese,4
+full_finetuning,english setter,saint bernard,4
+full_finetuning,japanese chin,saint bernard,4
+full_finetuning,leonberger,wheaten terrier,4
+full_finetuning,Persian,pomeranian,4
+full_finetuning,Ragdoll,pomeranian,4
+full_finetuning,samoyed,great pyrenees,4
+full_finetuning,Siamese,Birman,4
+full_finetuning,Siamese,pomeranian,4
+full_finetuning,yorkshire terrier,scottish terrier,4
+full_finetuning,beagle,boxer,3
+full_finetuning,boxer,german shorthaired,3
+full_finetuning,British Shorthair,Ragdoll,3
+full_finetuning,chihuahua,Abyssinian,3
+full_finetuning,english cocker spaniel,scottish terrier,3
+full_finetuning,english setter,japanese chin,3
+full_finetuning,miniature pinscher,Abyssinian,3
+full_finetuning,miniature pinscher,shiba inu,3
+full_finetuning,newfoundland,english cocker spaniel,3
+full_finetuning,Persian,keeshond,3
+full_finetuning,pomeranian,keeshond,3
+full_finetuning,pug,american bulldog,3
+full_finetuning,Ragdoll,Persian,3
+full_finetuning,staffordshire bull terrier,american pit bull terrier,3
+full_finetuning,staffordshire bull terrier,shiba inu,3
+full_finetuning,wheaten terrier,havanese,3
+full_finetuning,wheaten terrier,scottish terrier,3
+full_finetuning,Abyssinian,miniature pinscher,2
+full_finetuning,Abyssinian,Ragdoll,2
+full_finetuning,american bulldog,boxer,2
+full_finetuning,american bulldog,staffordshire bull terrier,2
+full_finetuning,american pit bull terrier,basset hound,2
+full_finetuning,american pit bull terrier,chihuahua,2
+full_finetuning,american pit bull terrier,miniature pinscher,2
+full_finetuning,basset hound,boxer,2
+full_finetuning,basset hound,german shorthaired,2
+full_finetuning,beagle,german shorthaired,2
+full_finetuning,beagle,saint bernard,2
+full_finetuning,beagle,shiba inu,2
+full_finetuning,Bengal,Abyssinian,2
+full_finetuning,Bombay,chihuahua,2
+full_finetuning,Bombay,newfoundland,2
+full_finetuning,Bombay,staffordshire bull terrier,2
+full_finetuning,boxer,english cocker spaniel,2
+full_finetuning,boxer,pug,2
+full_finetuning,boxer,saint bernard,2
+full_finetuning,British Shorthair,chihuahua,2
+full_finetuning,chihuahua,miniature pinscher,2
+full_finetuning,chihuahua,pomeranian,2
+full_finetuning,chihuahua,Sphynx,2
+full_finetuning,chihuahua,staffordshire bull terrier,2
+full_finetuning,Egyptian Mau,Abyssinian,2
+full_finetuning,english cocker spaniel,wheaten terrier,2
+full_finetuning,english cocker spaniel,yorkshire terrier,2
+full_finetuning,english setter,great pyrenees,2
+full_finetuning,english setter,leonberger,2
+full_finetuning,german shorthaired,staffordshire bull terrier,2
+full_finetuning,great pyrenees,Birman,2
+full_finetuning,great pyrenees,leonberger,2
+full_finetuning,great pyrenees,samoyed,2
+full_finetuning,great pyrenees,wheaten terrier,2
+full_finetuning,havanese,scottish terrier,2
+full_finetuning,havanese,yorkshire terrier,2
+full_finetuning,japanese chin,Persian,2
+full_finetuning,keeshond,scottish terrier,2
+full_finetuning,Maine Coon,Abyssinian,2
+full_finetuning,Maine Coon,keeshond,2
+full_finetuning,Maine Coon,Persian,2
+full_finetuning,miniature pinscher,american pit bull terrier,2
+full_finetuning,miniature pinscher,german shorthaired,2
+full_finetuning,miniature pinscher,Sphynx,2
+full_finetuning,newfoundland,german shorthaired,2
+full_finetuning,Persian,Bombay,2
+full_finetuning,Persian,samoyed,2
+full_finetuning,pomeranian,Birman,2
+full_finetuning,Russian Blue,chihuahua,2
+full_finetuning,saint bernard,beagle,2
+full_finetuning,samoyed,keeshond,2
+full_finetuning,scottish terrier,shiba inu,2
+full_finetuning,Sphynx,Russian Blue,2
+full_finetuning,wheaten terrier,yorkshire terrier,2
+full_finetuning,yorkshire terrier,havanese,2
+full_finetuning,Abyssinian,Birman,1
+full_finetuning,Abyssinian,chihuahua,1
+full_finetuning,Abyssinian,Egyptian Mau,1
+full_finetuning,Abyssinian,Persian,1
+full_finetuning,Abyssinian,shiba inu,1
+full_finetuning,american bulldog,beagle,1
+full_finetuning,american bulldog,german shorthaired,1
+full_finetuning,american bulldog,shiba inu,1
+full_finetuning,american bulldog,Sphynx,1
+full_finetuning,american pit bull terrier,Abyssinian,1
+full_finetuning,american pit bull terrier,Bengal,1
+full_finetuning,american pit bull terrier,Bombay,1
+full_finetuning,american pit bull terrier,english cocker spaniel,1
+full_finetuning,american pit bull terrier,english setter,1
+full_finetuning,american pit bull terrier,Russian Blue,1
+full_finetuning,american pit bull terrier,shiba inu,1
+full_finetuning,basset hound,american bulldog,1
+full_finetuning,basset hound,Bengal,1
+full_finetuning,beagle,american bulldog,1
+full_finetuning,beagle,american pit bull terrier,1
+full_finetuning,beagle,staffordshire bull terrier,1
+full_finetuning,Bengal,english setter,1
+full_finetuning,Bengal,shiba inu,1
+full_finetuning,Birman,japanese chin,1
+full_finetuning,Birman,Maine Coon,1
+full_finetuning,Bombay,Abyssinian,1
+full_finetuning,Bombay,Bengal,1
+full_finetuning,Bombay,boxer,1
+full_finetuning,Bombay,British Shorthair,1
+full_finetuning,Bombay,miniature pinscher,1
+full_finetuning,Bombay,pug,1
+full_finetuning,Bombay,Siamese,1
+full_finetuning,boxer,beagle,1
+full_finetuning,boxer,staffordshire bull terrier,1
+full_finetuning,British Shorthair,Bombay,1
+full_finetuning,British Shorthair,Maine Coon,1
+full_finetuning,British Shorthair,Persian,1
+full_finetuning,chihuahua,Bengal,1
+full_finetuning,chihuahua,Bombay,1
+full_finetuning,chihuahua,great pyrenees,1
+full_finetuning,chihuahua,Russian Blue,1
+full_finetuning,chihuahua,Siamese,1
+full_finetuning,Egyptian Mau,Bombay,1
+full_finetuning,Egyptian Mau,Maine Coon,1
+full_finetuning,english cocker spaniel,german shorthaired,1
+full_finetuning,english cocker spaniel,leonberger,1
+full_finetuning,english cocker spaniel,newfoundland,1
+full_finetuning,english setter,boxer,1
+full_finetuning,english setter,havanese,1
+full_finetuning,english setter,wheaten terrier,1
+full_finetuning,english setter,yorkshire terrier,1
+full_finetuning,great pyrenees,japanese chin,1
+full_finetuning,great pyrenees,saint bernard,1
+full_finetuning,great pyrenees,shiba inu,1
+full_finetuning,havanese,Birman,1
+full_finetuning,havanese,newfoundland,1
+full_finetuning,havanese,samoyed,1
+full_finetuning,havanese,shiba inu,1
+full_finetuning,japanese chin,great pyrenees,1
+full_finetuning,japanese chin,pomeranian,1
+full_finetuning,japanese chin,Ragdoll,1
+full_finetuning,japanese chin,wheaten terrier,1
+full_finetuning,keeshond,leonberger,1
+full_finetuning,keeshond,pomeranian,1
+full_finetuning,leonberger,basset hound,1
+full_finetuning,leonberger,British Shorthair,1
+full_finetuning,Maine Coon,chihuahua,1
+full_finetuning,Maine Coon,Egyptian Mau,1
+full_finetuning,Maine Coon,leonberger,1
+full_finetuning,miniature pinscher,american bulldog,1
+full_finetuning,newfoundland,leonberger,1
+full_finetuning,newfoundland,Russian Blue,1
+full_finetuning,Persian,Bengal,1
+full_finetuning,Persian,Birman,1
+full_finetuning,Persian,Egyptian Mau,1
+full_finetuning,pomeranian,japanese chin,1
+full_finetuning,pomeranian,Persian,1
+full_finetuning,pomeranian,Ragdoll,1
+full_finetuning,pug,beagle,1
+full_finetuning,pug,saint bernard,1
+full_finetuning,Ragdoll,Bombay,1
+full_finetuning,Ragdoll,keeshond,1
+full_finetuning,Ragdoll,Maine Coon,1
+full_finetuning,Ragdoll,wheaten terrier,1
+full_finetuning,Russian Blue,Bengal,1
+full_finetuning,saint bernard,basset hound,1
+full_finetuning,saint bernard,great pyrenees,1
+full_finetuning,saint bernard,japanese chin,1
+full_finetuning,samoyed,american bulldog,1
+full_finetuning,samoyed,Ragdoll,1
+full_finetuning,samoyed,shiba inu,1
+full_finetuning,scottish terrier,english cocker spaniel,1
+full_finetuning,scottish terrier,samoyed,1
+full_finetuning,shiba inu,Abyssinian,1
+full_finetuning,shiba inu,beagle,1
+full_finetuning,shiba inu,chihuahua,1
+full_finetuning,shiba inu,saint bernard,1
+full_finetuning,Siamese,Abyssinian,1
+full_finetuning,Siamese,american pit bull terrier,1
+full_finetuning,Siamese,leonberger,1
+full_finetuning,Siamese,Ragdoll,1
+full_finetuning,Siamese,Russian Blue,1
+full_finetuning,Sphynx,american bulldog,1
+full_finetuning,Sphynx,Bengal,1
+full_finetuning,Sphynx,german shorthaired,1
+full_finetuning,staffordshire bull terrier,chihuahua,1
+full_finetuning,staffordshire bull terrier,english setter,1
+full_finetuning,staffordshire bull terrier,samoyed,1
+full_finetuning,wheaten terrier,great pyrenees,1
+full_finetuning,wheaten terrier,leonberger,1
+full_finetuning,yorkshire terrier,keeshond,1

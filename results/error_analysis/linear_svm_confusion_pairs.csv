@@ -1,0 +1,281 @@
+method,true_breed,predicted_breed,count
+linear_svm,american pit bull terrier,american bulldog,17
+linear_svm,Ragdoll,Birman,14
+linear_svm,Siamese,Birman,12
+linear_svm,staffordshire bull terrier,american bulldog,12
+linear_svm,Birman,Siamese,11
+linear_svm,chihuahua,shiba inu,11
+linear_svm,Maine Coon,Bengal,11
+linear_svm,Russian Blue,British Shorthair,11
+linear_svm,staffordshire bull terrier,american pit bull terrier,11
+linear_svm,american pit bull terrier,staffordshire bull terrier,10
+linear_svm,Birman,Ragdoll,10
+linear_svm,Bengal,Egyptian Mau,9
+linear_svm,boxer,american bulldog,8
+linear_svm,Egyptian Mau,Bengal,8
+linear_svm,english cocker spaniel,english setter,8
+linear_svm,Maine Coon,Persian,8
+linear_svm,Abyssinian,Bengal,7
+linear_svm,Maine Coon,Ragdoll,7
+linear_svm,Persian,Maine Coon,7
+linear_svm,staffordshire bull terrier,boxer,7
+linear_svm,english setter,english cocker spaniel,6
+linear_svm,miniature pinscher,chihuahua,6
+linear_svm,Persian,Ragdoll,6
+linear_svm,pomeranian,samoyed,6
+linear_svm,beagle,basset hound,5
+linear_svm,British Shorthair,Russian Blue,5
+linear_svm,pomeranian,shiba inu,5
+linear_svm,Abyssinian,Ragdoll,4
+linear_svm,Abyssinian,shiba inu,4
+linear_svm,american pit bull terrier,boxer,4
+linear_svm,american pit bull terrier,german shorthaired,4
+linear_svm,basset hound,beagle,4
+linear_svm,British Shorthair,Abyssinian,4
+linear_svm,British Shorthair,Bombay,4
+linear_svm,havanese,wheaten terrier,4
+linear_svm,havanese,yorkshire terrier,4
+linear_svm,miniature pinscher,shiba inu,4
+linear_svm,miniature pinscher,staffordshire bull terrier,4
+linear_svm,Russian Blue,Abyssinian,4
+linear_svm,Russian Blue,Bombay,4
+linear_svm,staffordshire bull terrier,beagle,4
+linear_svm,Abyssinian,Sphynx,3
+linear_svm,american bulldog,american pit bull terrier,3
+linear_svm,american bulldog,saint bernard,3
+linear_svm,american pit bull terrier,english cocker spaniel,3
+linear_svm,beagle,american bulldog,3
+linear_svm,beagle,saint bernard,3
+linear_svm,Bengal,boxer,3
+linear_svm,British Shorthair,Ragdoll,3
+linear_svm,chihuahua,american bulldog,3
+linear_svm,english cocker spaniel,havanese,3
+linear_svm,english setter,saint bernard,3
+linear_svm,great pyrenees,saint bernard,3
+linear_svm,Persian,pomeranian,3
+linear_svm,Ragdoll,Bombay,3
+linear_svm,Siamese,Ragdoll,3
+linear_svm,Sphynx,Bengal,3
+linear_svm,yorkshire terrier,scottish terrier,3
+linear_svm,Abyssinian,Bombay,2
+linear_svm,american bulldog,beagle,2
+linear_svm,american pit bull terrier,basset hound,2
+linear_svm,american pit bull terrier,beagle,2
+linear_svm,american pit bull terrier,Siamese,2
+linear_svm,basset hound,saint bernard,2
+linear_svm,beagle,chihuahua,2
+linear_svm,beagle,english setter,2
+linear_svm,beagle,staffordshire bull terrier,2
+linear_svm,Birman,japanese chin,2
+linear_svm,Bombay,Russian Blue,2
+linear_svm,British Shorthair,Egyptian Mau,2
+linear_svm,chihuahua,miniature pinscher,2
+linear_svm,chihuahua,Siamese,2
+linear_svm,Egyptian Mau,Abyssinian,2
+linear_svm,english cocker spaniel,american bulldog,2
+linear_svm,english cocker spaniel,yorkshire terrier,2
+linear_svm,great pyrenees,Birman,2
+linear_svm,great pyrenees,samoyed,2
+linear_svm,havanese,great pyrenees,2
+linear_svm,havanese,japanese chin,2
+linear_svm,havanese,newfoundland,2
+linear_svm,japanese chin,saint bernard,2
+linear_svm,leonberger,boxer,2
+linear_svm,leonberger,newfoundland,2
+linear_svm,Maine Coon,Egyptian Mau,2
+linear_svm,Maine Coon,pomeranian,2
+linear_svm,pomeranian,great pyrenees,2
+linear_svm,pomeranian,Persian,2
+linear_svm,pug,boxer,2
+linear_svm,Ragdoll,Abyssinian,2
+linear_svm,Ragdoll,Persian,2
+linear_svm,Ragdoll,samoyed,2
+linear_svm,Ragdoll,Siamese,2
+linear_svm,saint bernard,basset hound,2
+linear_svm,samoyed,great pyrenees,2
+linear_svm,scottish terrier,wheaten terrier,2
+linear_svm,Sphynx,chihuahua,2
+linear_svm,Sphynx,Russian Blue,2
+linear_svm,staffordshire bull terrier,german shorthaired,2
+linear_svm,staffordshire bull terrier,pug,2
+linear_svm,wheaten terrier,scottish terrier,2
+linear_svm,Abyssinian,beagle,1
+linear_svm,Abyssinian,chihuahua,1
+linear_svm,Abyssinian,Maine Coon,1
+linear_svm,Abyssinian,pomeranian,1
+linear_svm,Abyssinian,Russian Blue,1
+linear_svm,american bulldog,boxer,1
+linear_svm,american bulldog,english setter,1
+linear_svm,american bulldog,leonberger,1
+linear_svm,american bulldog,pug,1
+linear_svm,american bulldog,Sphynx,1
+linear_svm,american bulldog,staffordshire bull terrier,1
+linear_svm,american pit bull terrier,Abyssinian,1
+linear_svm,american pit bull terrier,Bombay,1
+linear_svm,american pit bull terrier,keeshond,1
+linear_svm,american pit bull terrier,leonberger,1
+linear_svm,american pit bull terrier,miniature pinscher,1
+linear_svm,american pit bull terrier,Persian,1
+linear_svm,american pit bull terrier,Ragdoll,1
+linear_svm,american pit bull terrier,Russian Blue,1
+linear_svm,american pit bull terrier,shiba inu,1
+linear_svm,american pit bull terrier,Sphynx,1
+linear_svm,basset hound,Abyssinian,1
+linear_svm,basset hound,boxer,1
+linear_svm,basset hound,english setter,1
+linear_svm,basset hound,german shorthaired,1
+linear_svm,basset hound,Maine Coon,1
+linear_svm,basset hound,miniature pinscher,1
+linear_svm,basset hound,pug,1
+linear_svm,beagle,Abyssinian,1
+linear_svm,beagle,British Shorthair,1
+linear_svm,beagle,german shorthaired,1
+linear_svm,beagle,havanese,1
+linear_svm,beagle,Ragdoll,1
+linear_svm,beagle,shiba inu,1
+linear_svm,Bengal,basset hound,1
+linear_svm,Bengal,great pyrenees,1
+linear_svm,Bengal,Maine Coon,1
+linear_svm,Bengal,miniature pinscher,1
+linear_svm,Bengal,newfoundland,1
+linear_svm,Bengal,shiba inu,1
+linear_svm,Birman,shiba inu,1
+linear_svm,Bombay,Bengal,1
+linear_svm,Bombay,Persian,1
+linear_svm,Bombay,staffordshire bull terrier,1
+linear_svm,boxer,american pit bull terrier,1
+linear_svm,boxer,basset hound,1
+linear_svm,boxer,Birman,1
+linear_svm,boxer,havanese,1
+linear_svm,boxer,Maine Coon,1
+linear_svm,boxer,miniature pinscher,1
+linear_svm,boxer,pug,1
+linear_svm,boxer,Siamese,1
+linear_svm,boxer,staffordshire bull terrier,1
+linear_svm,British Shorthair,Bengal,1
+linear_svm,British Shorthair,newfoundland,1
+linear_svm,British Shorthair,Persian,1
+linear_svm,British Shorthair,samoyed,1
+linear_svm,British Shorthair,wheaten terrier,1
+linear_svm,chihuahua,Abyssinian,1
+linear_svm,chihuahua,beagle,1
+linear_svm,chihuahua,Bombay,1
+linear_svm,chihuahua,english cocker spaniel,1
+linear_svm,chihuahua,great pyrenees,1
+linear_svm,chihuahua,pug,1
+linear_svm,chihuahua,Ragdoll,1
+linear_svm,chihuahua,Sphynx,1
+linear_svm,chihuahua,staffordshire bull terrier,1
+linear_svm,Egyptian Mau,British Shorthair,1
+linear_svm,Egyptian Mau,Russian Blue,1
+linear_svm,english cocker spaniel,basset hound,1
+linear_svm,english cocker spaniel,Maine Coon,1
+linear_svm,english cocker spaniel,newfoundland,1
+linear_svm,english cocker spaniel,pug,1
+linear_svm,english cocker spaniel,samoyed,1
+linear_svm,english setter,Abyssinian,1
+linear_svm,english setter,german shorthaired,1
+linear_svm,english setter,leonberger,1
+linear_svm,english setter,miniature pinscher,1
+linear_svm,german shorthaired,american bulldog,1
+linear_svm,german shorthaired,american pit bull terrier,1
+linear_svm,german shorthaired,staffordshire bull terrier,1
+linear_svm,great pyrenees,american bulldog,1
+linear_svm,great pyrenees,english setter,1
+linear_svm,great pyrenees,japanese chin,1
+linear_svm,great pyrenees,newfoundland,1
+linear_svm,great pyrenees,Persian,1
+linear_svm,havanese,leonberger,1
+linear_svm,havanese,scottish terrier,1
+linear_svm,japanese chin,english setter,1
+linear_svm,japanese chin,Ragdoll,1
+linear_svm,japanese chin,wheaten terrier,1
+linear_svm,keeshond,chihuahua,1
+linear_svm,keeshond,leonberger,1
+linear_svm,keeshond,pomeranian,1
+linear_svm,keeshond,samoyed,1
+linear_svm,keeshond,scottish terrier,1
+linear_svm,leonberger,wheaten terrier,1
+linear_svm,Maine Coon,Abyssinian,1
+linear_svm,Maine Coon,Birman,1
+linear_svm,Maine Coon,British Shorthair,1
+linear_svm,Maine Coon,keeshond,1
+linear_svm,Maine Coon,leonberger,1
+linear_svm,Maine Coon,wheaten terrier,1
+linear_svm,miniature pinscher,american pit bull terrier,1
+linear_svm,miniature pinscher,basset hound,1
+linear_svm,miniature pinscher,boxer,1
+linear_svm,miniature pinscher,Russian Blue,1
+linear_svm,miniature pinscher,Siamese,1
+linear_svm,miniature pinscher,Sphynx,1
+linear_svm,miniature pinscher,wheaten terrier,1
+linear_svm,newfoundland,beagle,1
+linear_svm,newfoundland,scottish terrier,1
+linear_svm,Persian,Bombay,1
+linear_svm,Persian,keeshond,1
+linear_svm,pomeranian,Birman,1
+linear_svm,pomeranian,chihuahua,1
+linear_svm,pomeranian,leonberger,1
+linear_svm,pomeranian,Ragdoll,1
+linear_svm,pomeranian,Siamese,1
+linear_svm,pug,american bulldog,1
+linear_svm,pug,Bengal,1
+linear_svm,pug,saint bernard,1
+linear_svm,pug,staffordshire bull terrier,1
+linear_svm,Ragdoll,British Shorthair,1
+linear_svm,Ragdoll,Egyptian Mau,1
+linear_svm,Ragdoll,Maine Coon,1
+linear_svm,Ragdoll,pomeranian,1
+linear_svm,Ragdoll,Russian Blue,1
+linear_svm,Ragdoll,wheaten terrier,1
+linear_svm,Russian Blue,basset hound,1
+linear_svm,Russian Blue,chihuahua,1
+linear_svm,Russian Blue,Maine Coon,1
+linear_svm,Russian Blue,pomeranian,1
+linear_svm,Russian Blue,pug,1
+linear_svm,Russian Blue,Sphynx,1
+linear_svm,Russian Blue,staffordshire bull terrier,1
+linear_svm,saint bernard,american bulldog,1
+linear_svm,saint bernard,beagle,1
+linear_svm,saint bernard,boxer,1
+linear_svm,saint bernard,japanese chin,1
+linear_svm,saint bernard,pomeranian,1
+linear_svm,saint bernard,shiba inu,1
+linear_svm,samoyed,american bulldog,1
+linear_svm,samoyed,pomeranian,1
+linear_svm,samoyed,scottish terrier,1
+linear_svm,scottish terrier,havanese,1
+linear_svm,scottish terrier,samoyed,1
+linear_svm,scottish terrier,shiba inu,1
+linear_svm,scottish terrier,yorkshire terrier,1
+linear_svm,shiba inu,Abyssinian,1
+linear_svm,shiba inu,american bulldog,1
+linear_svm,shiba inu,beagle,1
+linear_svm,shiba inu,Bengal,1
+linear_svm,shiba inu,pomeranian,1
+linear_svm,shiba inu,samoyed,1
+linear_svm,Siamese,american pit bull terrier,1
+linear_svm,Siamese,Bengal,1
+linear_svm,Siamese,leonberger,1
+linear_svm,Siamese,staffordshire bull terrier,1
+linear_svm,Siamese,wheaten terrier,1
+linear_svm,Sphynx,Abyssinian,1
+linear_svm,Sphynx,american pit bull terrier,1
+linear_svm,Sphynx,Bombay,1
+linear_svm,Sphynx,pug,1
+linear_svm,staffordshire bull terrier,chihuahua,1
+linear_svm,staffordshire bull terrier,miniature pinscher,1
+linear_svm,staffordshire bull terrier,samoyed,1
+linear_svm,staffordshire bull terrier,scottish terrier,1
+linear_svm,staffordshire bull terrier,shiba inu,1
+linear_svm,wheaten terrier,Bengal,1
+linear_svm,wheaten terrier,British Shorthair,1
+linear_svm,wheaten terrier,Egyptian Mau,1
+linear_svm,wheaten terrier,english setter,1
+linear_svm,wheaten terrier,german shorthaired,1
+linear_svm,wheaten terrier,great pyrenees,1
+linear_svm,wheaten terrier,leonberger,1
+linear_svm,wheaten terrier,Persian,1
+linear_svm,wheaten terrier,Siamese,1
+linear_svm,wheaten terrier,Sphynx,1
+linear_svm,yorkshire terrier,english cocker spaniel,1

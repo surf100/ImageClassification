@@ -1,0 +1,19 @@
+method,test_index,true_breed,predicted_breed,correct
+full_finetuning,1,Abyssinian,Abyssinian,1
+full_finetuning,98,american bulldog,american bulldog,1
+full_finetuning,199,american pit bull terrier,american pit bull terrier,1
+full_finetuning,0,Abyssinian,Bengal,0
+full_finetuning,113,american bulldog,saint bernard,0
+full_finetuning,198,american pit bull terrier,Bombay,0
+head_training,1,Abyssinian,Abyssinian,1
+head_training,98,american bulldog,american bulldog,1
+head_training,199,american pit bull terrier,american pit bull terrier,1
+head_training,0,Abyssinian,chihuahua,0
+head_training,115,american bulldog,staffordshire bull terrier,0
+head_training,198,american pit bull terrier,staffordshire bull terrier,0
+linear_svm,1,Abyssinian,Abyssinian,1
+linear_svm,98,american bulldog,american bulldog,1
+linear_svm,199,american pit bull terrier,american pit bull terrier,1
+linear_svm,0,Abyssinian,Bengal,0
+linear_svm,103,american bulldog,leonberger,0
+linear_svm,198,american pit bull terrier,Bombay,0

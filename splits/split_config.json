@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "validation_size": 0.2,
+  "method": "stratified train_test_split",
+  "official_test_untouched": true,
+  "train_images": 2944,
+  "validation_images": 736,
+  "test_images": 3669
+}

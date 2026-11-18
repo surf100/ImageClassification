@@ -1,0 +1,38 @@
+method,breed,total_images,correct,errors,recall
+full_finetuning,american pit bull terrier,100,31,69,0.31
+full_finetuning,chihuahua,100,52,48,0.52
+full_finetuning,staffordshire bull terrier,89,41,48,0.4607
+full_finetuning,Persian,100,58,42,0.58
+full_finetuning,havanese,100,69,31,0.69
+full_finetuning,beagle,100,71,29,0.71
+full_finetuning,Birman,100,72,28,0.72
+full_finetuning,British Shorthair,100,72,28,0.72
+full_finetuning,english setter,100,73,27,0.73
+full_finetuning,miniature pinscher,100,74,26,0.74
+full_finetuning,Ragdoll,100,75,25,0.75
+full_finetuning,Maine Coon,100,76,24,0.76
+full_finetuning,pomeranian,100,77,23,0.77
+full_finetuning,Bombay,88,66,22,0.75
+full_finetuning,Russian Blue,100,79,21,0.79
+full_finetuning,Siamese,100,80,20,0.8
+full_finetuning,Sphynx,100,80,20,0.8
+full_finetuning,english cocker spaniel,100,80,20,0.8
+full_finetuning,boxer,99,81,18,0.8182
+full_finetuning,basset hound,100,84,16,0.84
+full_finetuning,newfoundland,100,84,16,0.84
+full_finetuning,Abyssinian,98,85,13,0.8673
+full_finetuning,Bengal,100,87,13,0.87
+full_finetuning,Egyptian Mau,97,85,12,0.8763
+full_finetuning,american bulldog,100,88,12,0.88
+full_finetuning,yorkshire terrier,100,88,12,0.88
+full_finetuning,great pyrenees,100,89,11,0.89
+full_finetuning,japanese chin,100,90,10,0.9
+full_finetuning,wheaten terrier,100,90,10,0.9
+full_finetuning,samoyed,100,91,9,0.91
+full_finetuning,scottish terrier,99,90,9,0.9091
+full_finetuning,leonberger,100,94,6,0.94
+full_finetuning,pug,100,95,5,0.95
+full_finetuning,saint bernard,100,95,5,0.95
+full_finetuning,keeshond,99,95,4,0.9596
+full_finetuning,shiba inu,100,96,4,0.96
+full_finetuning,german shorthaired,100,98,2,0.98

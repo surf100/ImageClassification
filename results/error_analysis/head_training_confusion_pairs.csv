@@ -1,0 +1,188 @@
+method,true_breed,predicted_breed,count
+head_training,american pit bull terrier,staffordshire bull terrier,42
+head_training,Ragdoll,Birman,21
+head_training,British Shorthair,Russian Blue,20
+head_training,american pit bull terrier,american bulldog,19
+head_training,miniature pinscher,chihuahua,17
+head_training,english cocker spaniel,english setter,13
+head_training,miniature pinscher,staffordshire bull terrier,12
+head_training,Sphynx,chihuahua,11
+head_training,beagle,basset hound,10
+head_training,Siamese,Birman,10
+head_training,Maine Coon,Bengal,9
+head_training,Ragdoll,Persian,9
+head_training,staffordshire bull terrier,american bulldog,9
+head_training,Persian,Maine Coon,8
+head_training,boxer,american bulldog,7
+head_training,Egyptian Mau,Bengal,7
+head_training,Ragdoll,Maine Coon,7
+head_training,Russian Blue,British Shorthair,6
+head_training,Siamese,chihuahua,6
+head_training,american bulldog,staffordshire bull terrier,5
+head_training,basset hound,beagle,5
+head_training,Bengal,Egyptian Mau,5
+head_training,Bombay,Russian Blue,5
+head_training,boxer,staffordshire bull terrier,5
+head_training,Ragdoll,pomeranian,5
+head_training,Russian Blue,Bombay,5
+head_training,american pit bull terrier,chihuahua,4
+head_training,beagle,american bulldog,4
+head_training,Bengal,Maine Coon,4
+head_training,Birman,Siamese,4
+head_training,British Shorthair,Bombay,4
+head_training,British Shorthair,Persian,4
+head_training,chihuahua,Sphynx,4
+head_training,Maine Coon,Persian,4
+head_training,Persian,pomeranian,4
+head_training,Ragdoll,Siamese,4
+head_training,staffordshire bull terrier,beagle,4
+head_training,wheaten terrier,havanese,4
+head_training,Abyssinian,chihuahua,3
+head_training,american bulldog,beagle,3
+head_training,american pit bull terrier,basset hound,3
+head_training,Birman,Ragdoll,3
+head_training,Egyptian Mau,Maine Coon,3
+head_training,english cocker spaniel,havanese,3
+head_training,english cocker spaniel,newfoundland,3
+head_training,japanese chin,saint bernard,3
+head_training,keeshond,pomeranian,3
+head_training,Maine Coon,Ragdoll,3
+head_training,scottish terrier,havanese,3
+head_training,Abyssinian,Bengal,2
+head_training,Abyssinian,Egyptian Mau,2
+head_training,Abyssinian,Russian Blue,2
+head_training,american bulldog,boxer,2
+head_training,american pit bull terrier,beagle,2
+head_training,american pit bull terrier,german shorthaired,2
+head_training,basset hound,saint bernard,2
+head_training,beagle,chihuahua,2
+head_training,British Shorthair,Abyssinian,2
+head_training,British Shorthair,Egyptian Mau,2
+head_training,British Shorthair,Maine Coon,2
+head_training,British Shorthair,Ragdoll,2
+head_training,english setter,japanese chin,2
+head_training,english setter,saint bernard,2
+head_training,german shorthaired,staffordshire bull terrier,2
+head_training,great pyrenees,Birman,2
+head_training,Maine Coon,pomeranian,2
+head_training,miniature pinscher,Russian Blue,2
+head_training,miniature pinscher,Sphynx,2
+head_training,newfoundland,staffordshire bull terrier,2
+head_training,Persian,Ragdoll,2
+head_training,pug,boxer,2
+head_training,saint bernard,basset hound,2
+head_training,saint bernard,beagle,2
+head_training,samoyed,great pyrenees,2
+head_training,scottish terrier,wheaten terrier,2
+head_training,shiba inu,chihuahua,2
+head_training,Sphynx,Abyssinian,2
+head_training,Sphynx,Russian Blue,2
+head_training,staffordshire bull terrier,boxer,2
+head_training,yorkshire terrier,havanese,2
+head_training,Abyssinian,Maine Coon,1
+head_training,Abyssinian,Persian,1
+head_training,american bulldog,saint bernard,1
+head_training,american bulldog,Sphynx,1
+head_training,american pit bull terrier,Bengal,1
+head_training,american pit bull terrier,boxer,1
+head_training,american pit bull terrier,saint bernard,1
+head_training,american pit bull terrier,wheaten terrier,1
+head_training,basset hound,Bengal,1
+head_training,basset hound,german shorthaired,1
+head_training,beagle,Abyssinian,1
+head_training,beagle,english setter,1
+head_training,beagle,saint bernard,1
+head_training,beagle,staffordshire bull terrier,1
+head_training,Bengal,Abyssinian,1
+head_training,Bengal,english setter,1
+head_training,Birman,Persian,1
+head_training,Birman,Russian Blue,1
+head_training,Bombay,chihuahua,1
+head_training,Bombay,havanese,1
+head_training,Bombay,newfoundland,1
+head_training,Bombay,pug,1
+head_training,Bombay,scottish terrier,1
+head_training,Bombay,Siamese,1
+head_training,Bombay,staffordshire bull terrier,1
+head_training,boxer,basset hound,1
+head_training,boxer,beagle,1
+head_training,boxer,Bengal,1
+head_training,boxer,german shorthaired,1
+head_training,boxer,pug,1
+head_training,boxer,saint bernard,1
+head_training,British Shorthair,yorkshire terrier,1
+head_training,chihuahua,american bulldog,1
+head_training,chihuahua,beagle,1
+head_training,chihuahua,pomeranian,1
+head_training,chihuahua,Russian Blue,1
+head_training,chihuahua,shiba inu,1
+head_training,chihuahua,staffordshire bull terrier,1
+head_training,Egyptian Mau,Abyssinian,1
+head_training,english cocker spaniel,american bulldog,1
+head_training,english cocker spaniel,basset hound,1
+head_training,english cocker spaniel,leonberger,1
+head_training,english cocker spaniel,yorkshire terrier,1
+head_training,english setter,english cocker spaniel,1
+head_training,english setter,great pyrenees,1
+head_training,english setter,havanese,1
+head_training,english setter,leonberger,1
+head_training,english setter,wheaten terrier,1
+head_training,great pyrenees,havanese,1
+head_training,great pyrenees,newfoundland,1
+head_training,great pyrenees,saint bernard,1
+head_training,havanese,beagle,1
+head_training,havanese,great pyrenees,1
+head_training,havanese,japanese chin,1
+head_training,havanese,yorkshire terrier,1
+head_training,japanese chin,Birman,1
+head_training,japanese chin,great pyrenees,1
+head_training,japanese chin,pomeranian,1
+head_training,keeshond,great pyrenees,1
+head_training,keeshond,japanese chin,1
+head_training,keeshond,scottish terrier,1
+head_training,leonberger,newfoundland,1
+head_training,leonberger,wheaten terrier,1
+head_training,Maine Coon,Abyssinian,1
+head_training,Maine Coon,japanese chin,1
+head_training,Maine Coon,saint bernard,1
+head_training,miniature pinscher,american pit bull terrier,1
+head_training,miniature pinscher,boxer,1
+head_training,miniature pinscher,shiba inu,1
+head_training,Persian,Bengal,1
+head_training,Persian,Birman,1
+head_training,Persian,Bombay,1
+head_training,Persian,keeshond,1
+head_training,pomeranian,newfoundland,1
+head_training,pomeranian,Persian,1
+head_training,pomeranian,samoyed,1
+head_training,pug,american bulldog,1
+head_training,pug,beagle,1
+head_training,pug,saint bernard,1
+head_training,pug,staffordshire bull terrier,1
+head_training,Ragdoll,chihuahua,1
+head_training,Ragdoll,shiba inu,1
+head_training,Russian Blue,Abyssinian,1
+head_training,Russian Blue,chihuahua,1
+head_training,Russian Blue,Sphynx,1
+head_training,saint bernard,great pyrenees,1
+head_training,saint bernard,japanese chin,1
+head_training,saint bernard,shiba inu,1
+head_training,samoyed,american bulldog,1
+head_training,shiba inu,basset hound,1
+head_training,shiba inu,beagle,1
+head_training,shiba inu,pomeranian,1
+head_training,Siamese,Abyssinian,1
+head_training,Siamese,american pit bull terrier,1
+head_training,Siamese,pomeranian,1
+head_training,Siamese,pug,1
+head_training,Siamese,Russian Blue,1
+head_training,staffordshire bull terrier,american pit bull terrier,1
+head_training,staffordshire bull terrier,chihuahua,1
+head_training,staffordshire bull terrier,samoyed,1
+head_training,wheaten terrier,Abyssinian,1
+head_training,wheaten terrier,Bengal,1
+head_training,wheaten terrier,great pyrenees,1
+head_training,wheaten terrier,leonberger,1
+head_training,wheaten terrier,shiba inu,1
+head_training,wheaten terrier,yorkshire terrier,1
+head_training,yorkshire terrier,english cocker spaniel,1

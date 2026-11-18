@@ -1,0 +1,38 @@
+method,breed,total_images,correct,errors,recall
+linear_svm,american pit bull terrier,100,46,54,0.46
+linear_svm,staffordshire bull terrier,89,46,43,0.5169
+linear_svm,Maine Coon,100,64,36,0.64
+linear_svm,Ragdoll,100,69,31,0.69
+linear_svm,chihuahua,100,73,27,0.73
+linear_svm,Russian Blue,100,74,26,0.74
+linear_svm,Abyssinian,98,73,25,0.7449
+linear_svm,Birman,100,76,24,0.76
+linear_svm,British Shorthair,100,77,23,0.77
+linear_svm,beagle,100,77,23,0.77
+linear_svm,miniature pinscher,100,79,21,0.79
+linear_svm,Siamese,100,80,20,0.8
+linear_svm,english cocker spaniel,100,80,20,0.8
+linear_svm,pomeranian,100,80,20,0.8
+linear_svm,Bengal,100,82,18,0.82
+linear_svm,Persian,100,82,18,0.82
+linear_svm,boxer,99,82,17,0.8283
+linear_svm,havanese,100,84,16,0.84
+linear_svm,american bulldog,100,86,14,0.86
+linear_svm,basset hound,100,87,13,0.87
+linear_svm,english setter,100,87,13,0.87
+linear_svm,Egyptian Mau,97,85,12,0.8763
+linear_svm,great pyrenees,100,88,12,0.88
+linear_svm,wheaten terrier,100,88,12,0.88
+linear_svm,Sphynx,100,89,11,0.89
+linear_svm,saint bernard,100,92,8,0.92
+linear_svm,pug,100,94,6,0.94
+linear_svm,scottish terrier,99,93,6,0.9394
+linear_svm,shiba inu,100,94,6,0.94
+linear_svm,Bombay,88,83,5,0.9432
+linear_svm,japanese chin,100,95,5,0.95
+linear_svm,keeshond,99,94,5,0.9495
+linear_svm,leonberger,100,95,5,0.95
+linear_svm,samoyed,100,95,5,0.95
+linear_svm,yorkshire terrier,100,96,4,0.96
+linear_svm,german shorthaired,100,97,3,0.97
+linear_svm,newfoundland,100,98,2,0.98
