@@ -71,8 +71,8 @@ in requirements.txt and experiment configuration files.
 Clone the repository:
 
 ```bash
-git clone REPOSITORY_URL
-cd CV_Assignment_2
+git clone https://github.com/surf100/ImageClassification.git
+cd ImageClassification
 ```
 
 Create a virtual environment on Windows:
