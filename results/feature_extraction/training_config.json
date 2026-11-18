@@ -58,5 +58,5 @@
   "cudnn_benchmark": false,
   "deterministic_algorithms_enforced": false,
   "test_set_used": false,
-  "model_path": "C:\\Users\\Lenovo\\Desktop\\computer vision\\HW2\\CV_Assignment_2\\checkpoints\\linear_svm.joblib"
+  "model_path": "checkpoints/linear_svm.joblib"
 }

@@ -381,7 +381,7 @@ def main():
         "cudnn_deterministic": True,
         "cudnn_benchmark": False,
         "deterministic_algorithms_enforced": False,
-        "checkpoint_path": str(CHECKPOINT_PATH),
+        "checkpoint_path": CHECKPOINT_PATH.relative_to(BASE_DIR).as_posix(),
         "test_set_used": False,
     }
 

@@ -23,6 +23,6 @@
   "cudnn_deterministic": true,
   "cudnn_benchmark": false,
   "deterministic_algorithms_enforced": false,
-  "checkpoint_path": "C:\\Users\\Lenovo\\Desktop\\computer vision\\HW2\\CV_Assignment_2\\checkpoints\\full_finetuning_best.pth",
+  "checkpoint_path": "checkpoints/full_finetuning_best.pth",
   "test_set_used": false
 }

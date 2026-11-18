@@ -349,7 +349,7 @@ def main():
         "cudnn_benchmark": False,
         "deterministic_algorithms_enforced": False,
         "test_set_used": False,
-        "model_path": str(MODEL_PATH),
+        "model_path": MODEL_PATH.relative_to(BASE_DIR).as_posix(),
     }
 
     with open(
